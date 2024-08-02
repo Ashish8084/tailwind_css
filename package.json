@@ -3,7 +3,7 @@
     "prettier-plugin-tailwindcss": "^0.6.5",
     "tailwindcss": "^3.4.7"
   },
-  "name": "lesson-02",
+  "name": "lesson-03",
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "dependencies": {
